@@ -1,7 +1,8 @@
 # Azure Yönetimi ve Servisleri için Kod ve Script örnekleri
 
 **Azure Uzmanı Nasıl Olabilirim?**\
-Azure Uzmanı Nasıl Olabilirim ?
+https://www.mshowto.org/azure-uzmani-nasil-olabilirim-nereden-ve-nasil-baslamaliyim-webcast-kaydi-yayinda.html
+
 
 **Ücretsiz Azure Hesabı ile Neler Yapabilirsiniz?**\
 https://www.mshowto.org/ucretsiz-azure-hesabi-ile-neler-yapabilirsiniz.html
