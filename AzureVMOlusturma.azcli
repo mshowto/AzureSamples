@@ -1,0 +1,25 @@
+#Örnek Linux VM Oluşturma
+az vm create --resource-group mac-linux-rg --name ac-linuxvm01 --image UbuntuLTS --admin-username oyuksektepeli --generate-ssh-keys
+
+#vm'e bağlanmak için
+ssh oyuksektepeli@23.97.191.25 -p 22
+
+#sık kullanılan azure vm imajlarını görüntülemek için
+az vm image list --output table
+
+#Azure üzerinde ki tüm Centos imajlarını görüntülemek için
+az vm image list --offer CentOS --all --output table
+
+#Azure üzerinde ki belirli bir imajdan makina kurmak için
+az vm create --resource-group myResourceGroupVM --name myVM2 --image OpenLogic:CentOS:6.5:latest --generate-ssh-keys
+
+#Azure üzerinde ki tüm vm boyutlarını görmek için
+az vm list-sizes --location eastus --output table
+
+#İstediğiniz boyutta bir vm kurabilmek için
+az vm create \
+    --resource-group myResourceGroupVM \
+    --name myVM3 \
+    --image UbuntuLTS \
+    --size Standard_F4s \
+    --generate-ssh-keys
