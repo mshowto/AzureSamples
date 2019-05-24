@@ -1,0 +1,10 @@
+#Azure'a AZ CLI ile bağlanmak için
+
+#Azure bağlantısı için kimlik doğrulama
+Az login
+
+#Tüm Azure Subscriptionlarını görüntülemek için
+az account list
+
+#Çalışmak istenen Azure Subscriptionını seçmek için
+az account set --subscription "subscription-name"
