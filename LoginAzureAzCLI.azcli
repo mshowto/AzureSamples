@@ -1,5 +1,8 @@
 #Azure'a AZ CLI ile bağlanmak için
 
+#Azure CLI Kullanmak için gerekli SDK linki
+https://azure.microsoft.com/tr-tr/downloads/
+
 #Azure bağlantısı için kimlik doğrulama
 Az login
 

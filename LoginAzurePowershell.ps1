@@ -1,5 +1,8 @@
 #Azure'a Powershell ile bağlanmak için
 
+#Azure Powershell Kullanmak için gerekli SDK linki
+https://azure.microsoft.com/tr-tr/downloads/
+
 #Azure bağlantısı için kimlik doğrulama
 Connect-AzureRmAccount
 
