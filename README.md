@@ -20,3 +20,8 @@ https://www.mshowto.org/azure-kaynaklarinin-silinmesi-nasil-engellenir.html
 https://www.mshowto.org/azure-vmware-solutions-nedir.html
 
 
+**Azure Traffic Manager Nedir? Traffic Manager ile App Services Yönetim Nasıl Yapılır?**\
+https://www.mshowto.org/azure-traffic-manager-nedir-traffic-manager-ile-app-services-yonetim-nasil-yapilir.html
+
+
+
